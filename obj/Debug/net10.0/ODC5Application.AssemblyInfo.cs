@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ODC5Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9623d09f2aa74b93b33488665a40162024f8f507")]
 [assembly: System.Reflection.AssemblyProductAttribute("ODC5Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ODC5Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
